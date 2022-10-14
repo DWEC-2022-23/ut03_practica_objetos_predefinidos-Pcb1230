@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+header{
+    width: 100%;
+    align-items: center;
+}
+header h2{
+    font-size: 60px;
+    color: blue;
+    width: 100%;
+}
+section{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    flex-wrap: wrap;
+}
+section button{
+    background-color: blue;
+    color:white;
+    width: 33%;
+}
